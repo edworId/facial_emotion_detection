@@ -69,5 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell-Script-00000F?style=for-the-badge&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shell-009000?style=for-the-badge&logo=&logoColor=green"/>
 </p>
