@@ -4,7 +4,9 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=COMPLETO&color=GREEN&style=for-the-badge"/>
 </p>
 
-This project uses Python to detect faces and emotions. Furthermore, it uses a Shell Script to develop a GUI menu to help the user use it.
+This project uses Python to detect faces and emotions with FER2013. Furthermore, it uses a Shell Script to develop a GUI menu to help the user use it.
+
+Facial expression detection from a picture or a live camera stream implemented with convolutional neural networks in Keras and OpenCV.
 
 The dialog command is a command-line tool used to create text-based user interfaces on Unix-like systems. It provides an interactive way to display dialog boxes, menus, and forms in the terminal.
 
@@ -45,9 +47,13 @@ chmod a+x -v *.sh
   - **BACK TO MAIN MENU**: Return to the main menu.
   - **EXIT FROM PROGRAM**: Exit the program.
 
+## DATASET
+
+Dataset: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/overview
+
 <h1 align="center">  </h1>
 <p align="center">
-<img width="600", img src="https://github.com/edworId/Registration/blob/main/registration.png"/>
+<img width="900", img src="https://github.com/edworId/facial_emotion_detection/blob/main/menu.png"/>
 </p>
 
 <h6 align="center">This interface was built using Dialog, text based menu. </h6>
