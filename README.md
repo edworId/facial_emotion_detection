@@ -1,4 +1,4 @@
-<h1 align="center"> Facial emotion detection using a shell GUI menu </h1>
+<h1 align="center"> Facial Emotion Recognition using a shell GUI menu </h1>
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=COMPLETO&color=GREEN&style=for-the-badge"/>
@@ -6,7 +6,7 @@
 
 This project uses Python to detect faces and emotions with FER2013. Furthermore, it uses a Shell Script to develop a GUI menu to help the user use it.
 
-Facial expression detection from a picture or a live camera stream implemented with convolutional neural networks in Keras and OpenCV.
+Facial expression recognition from a picture or a live camera stream implemented with convolutional neural networks in Keras and OpenCV.
 
 The dialog command is a command-line tool used to create text-based user interfaces on Unix-like systems. It provides an interactive way to display dialog boxes, menus, and forms in the terminal.
 
